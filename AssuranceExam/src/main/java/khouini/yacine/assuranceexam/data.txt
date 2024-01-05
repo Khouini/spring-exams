@@ -1,0 +1,17 @@
+{
+  "cin": 1,
+  "nom": "string1",
+  "prenom": "string2",
+  "profession": "string3",
+  "salaire": 100
+}
+-------------------------
+{
+  "designation": "stringDesig",
+  "montant": 100,
+  "contrat": {
+    "matricule": "stringMatr",
+    "dateEffet": "2024-01-04",
+    "type": "Mensuel"
+  }
+}

@@ -1,0 +1,16 @@
+patho
+{
+  "codePath": "stringCode",
+  "libelle": "stringLi",
+  "description": "stringDess",
+  "archive": false
+}
+
+patient & affect
+{
+  "typePieceIdentite": "CIN",
+  "identifiantPieceIdentite": "stringIdCIN",
+  "dateEmission": "2024-01-04",
+  "nom": "string",
+  "prenom": "string"
+}

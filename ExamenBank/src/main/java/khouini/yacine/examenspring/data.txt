@@ -1,0 +1,6 @@
+add bank
+{
+  "nom": "yacine",
+  "agence": "hmmA",
+  "adresse": "hmm"
+}
